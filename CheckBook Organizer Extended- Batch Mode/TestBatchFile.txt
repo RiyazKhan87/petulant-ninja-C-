@@ -1,0 +1,5 @@
+ID;Date;Type;Amount;Description
+
+2385;1/23/2010;DR;$125.76;Purchased groceries at Food Mart
+2386;01/23/2010;DR;$35.05;Purchased gasoline at Quickie Mart
+1050;02/05/2010;CR;$1578.98;Automated Payroll Deposit
